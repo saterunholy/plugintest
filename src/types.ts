@@ -110,7 +110,7 @@ export interface SimpleOptions {
 }
 
 export const defaults: SimpleOptions = {
-  followTheme: false;
+  followTheme: false,
   getOption: funcBody;
 };
 
